@@ -1,0 +1,1084 @@
+1637673846224	geckodriver	INFO	Listening on 127.0.0.1:56057
+1637673848986	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56058" "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileMeSG2o"
+1637673850147	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileMeSG2o\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+DevTools listening on ws://localhost:56058/devtools/browser/beee4337-b01b-4c28-9461-c6a983bf0717
+1637673854057	Marionette	INFO	Listening on port 56067
+1637673854397	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637673928163	Marionette	INFO	Stopped listening on port 56067
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1637674160966	geckodriver	INFO	Listening on 127.0.0.1:56602
+1637674164031	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56603" "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileFHAoC4"
+1637674165153	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileFHAoC4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56603/devtools/browser/a3ccdb30-0128-404f-8e75-be57eb0033da
+1637674169145	Marionette	INFO	Listening on port 56613
+1637674169413	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637674314469	Marionette	INFO	Stopped listening on port 56613
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x680023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+nabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofile5qVEh7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56862/devtools/browser/c14e4de4-a251-4392-aa54-3c10b3f66f37
+1637674295508	Marionette	INFO	Listening on port 56873
+1637674295777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637674300726	Marionette	INFO	Stopped listening on port 56873
+JavaScript error: https://www.dpfile.com/app/owl/static/owl_latest.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637674413166	geckodriver	INFO	Listening on 127.0.0.1:57093
+1637674416230	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57094" "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofilePPXCHc"
+1637674417402	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofilePPXCHc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57094/devtools/browser/6ba46f09-bf9d-4998-92f0-94907a853313
+1637674421266	Marionette	INFO	Listening on port 57103
+1637674421615	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637674425255	Marionette	INFO	Stopped listening on port 57103
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\aspire\AppData\Local\Temp\rust_mozprofilePPXCHc\protections.sqlite
+JavaScript error: https://www.dpfile.com/app/owl/static/owl_latest.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39011B,name=PContent::Msg_RecordDiscardedData) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637676755337	geckodriver	INFO	Listening on 127.0.0.1:60911
+1637676758399	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60912" "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileiZvtgE"
+1637676759578	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileiZvtgE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60912/devtools/browser/dd2852ba-07af-472f-a11e-8bd7a2c83809
+1637676763525	Marionette	INFO	Listening on port 60920
+1637676763789	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 404
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1637676782513	Marionette	INFO	Stopped listening on port 60920
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637677969001	geckodriver	INFO	Listening on 127.0.0.1:62626
+1637677972065	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62627" "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileJsqUMi"
+1637677973207	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileJsqUMi\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+DevTools listening on ws://localhost:62627/devtools/browser/c47cd53e-93fe-4e2e-a4f2-4efd5a16d703
+1637677977253	Marionette	INFO	Listening on port 62636
+1637677977468	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://misc.360buyimg.com/mtd/pc/index_2019/1.0.0/static/js/index.chunk.js, line 1: TypeError: l is undefined
+JavaScript warning: https://h5.360buyimg.com/ws_js/jdwebm.js?v=pcHome, line 1037: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://h5.360buyimg.com/ws_js/jdwebm.js?v=pcHome, line 1037: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gias.jd.com/js/td.js line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gias.jd.com/js/td.js line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://h5.360buyimg.com/ws_js/jdwebm.js?v=pcSearch, line 1037: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://h5.360buyimg.com/ws_js/jdwebm.js?v=pcSearch, line 1037: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gias.jd.com/js/td.js line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gias.jd.com/js/td.js line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://h5.360buyimg.com/ws_js/jdwebm.js?v=ProDetail, line 1037: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://h5.360buyimg.com/ws_js/jdwebm.js?v=ProDetail, line 1037: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://nfa.jd.com/loadFa_toJson.js?aid=2_163_818-2_232_3431-0_0_3743-2_163_6092-2_163_817-2_163_5395-2_163_5394-0_0_3789-0_0_3790-0_0_6052-0_0_4035-0_0_8273&ver=20131107, line 185: unreachable code after return statement
+JavaScript warning: https://gias.jd.com/js/td.js line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gias.jd.com/js/td.js line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: Error: Failed to fetch https://chat1.jd.com/api/checkChat?pidList=12737107,12333540,10037455799319,13045700,12512461,65193604614,12752623,10035991782080,12585508,12451724,12647829,15695849659,35309636431,12834006,13291912,1060018965,13330746,12673001,27430496241,45538380054,10031230772781,13330700,12913854,12397576,12215717,12598703,12468732,10032643137730,12610080,10029250618473&callback=jQuery3276421&_=1637677982990. Code 2152924148.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://chat1.jd.com/api/checkChat?pidList=12737107,12333540,10037455799319,13045700,12512461,65193604614,12752623,10035991782080,12585508,12451724,12647829,15695849659,35309636431,12834006,13291912,1060018965,13330746,12673001,27430496241,45538380054,10031230772781,13330700,12913854,12397576,12215717,12598703,12468732,10032643137730,12610080,10029250618473&callback=jQuery3276421&_=1637677982990. Code 2152924148.", "resource://devtools/shared/DevToolsUtils.js", 556))
+SourceActor threw an exception: Error: Failed to fetch https://chat1.jd.com/api/checkChat?pidList=10039521551689,10040983058475,64955830367,10025551064567,10030098856197,10025534866217,10025552032269,10040982245150,10035791146947,10026631198038,10040998792025,10025534385086,56030821356,10031145899771,10025533391168,56030990719,10037222444086,10040988234404,10029011785879,10031857422987,10031142379791,10038070777122,10040976871683,10035753118779,10041017498618,10035753770457,10040825505592,10031714171304,10040687262430,10031144402820&callback=jQuery2991592&_=1637677987130. Code 2152924148.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://chat1.jd.com/api/checkChat?pidList=10039521551689,10040983058475,64955830367,10025551064567,10030098856197,10025534866217,10025552032269,10040982245150,10035791146947,10026631198038,10040998792025,10025534385086,56030821356,10031145899771,10025533391168,56030990719,10037222444086,10040988234404,10029011785879,10031857422987,10031142379791,10038070777122,10040976871683,10035753118779,10041017498618,10035753770457,10040825505592,10031714171304,10040687262430,10031144402820&callback=jQuery2991592&_=1637677987130. Code 2152924148.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://chat1.jd.com/api/checkChat?pidList=12737107,12333540,10037455799319,13045700,12512461,65193604614,12752623,10035991782080,12585508,12451724,12647829,15695849659,35309636431,12834006,13291912,1060018965,13330746,12673001,27430496241,45538380054,10031230772781,13330700,12913854,12397576,12215717,12598703,12468732,10032643137730,12610080,10029250618473&callback=jQuery3276421&_=1637677982990. Code 2152924148.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://chat1.jd.com/api/checkChat?pidList=10039521551689,10040983058475,64955830367,10025551064567,10030098856197,10025534866217,10025552032269,10040982245150,10035791146947,10026631198038,10040998792025,10025534385086,56030821356,10031145899771,10025533391168,56030990719,10037222444086,10040988234404,10029011785879,10031857422987,10031142379791,10038070777122,10040976871683,10035753118779,10041017498618,10035753770457,10040825505592,10031714171304,10040687262430,10031144402820&callback=jQuery2991592&_=1637677987130. Code 2152924148.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+1637679675748	Marionette	INFO	Stopped listening on port 62636
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+onette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofilerxWdxe\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+DevTools listening on ws://localhost:64805/devtools/browser/93cc0be3-3374-403e-b413-980eee3812ce
+1637679364770	Marionette	INFO	Listening on port 64815
+1637679364953	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://misc.360buyimg.com/mtd/pc/index_2019/1.0.0/static/js/index.chunk.js, line 1: TypeError: l is undefined
+JavaScript warning: https://gias.jd.com/js/td.js line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://h5.360buyimg.com/ws_js/jdwebm.js?v=pcHome, line 1037: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://h5.360buyimg.com/ws_js/jdwebm.js?v=pcHome, line 1037: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gias.jd.com/js/td.js line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://h5.360buyimg.com/ws_js/jdwebm.js?v=pcSearch, line 1037: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://h5.360buyimg.com/ws_js/jdwebm.js?v=pcSearch, line 1037: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gias.jd.com/js/td.js line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gias.jd.com/js/td.js line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637679673516	Marionette	INFO	Stopped listening on port 64815
+1637714302298	geckodriver	INFO	Listening on 127.0.0.1:62345
+1637714305382	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62346" "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileOJfVrV"
+*** You are running in headless mode.
+1637714307088	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileOJfVrV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62346/devtools/browser/e8fce953-18e6-4626-834b-e1f1fb1935df
+1637714309522	Marionette	INFO	Listening on port 62353
+1637714309624	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://misc.360buyimg.com/mtd/pc/index_2019/1.0.0/static/js/index.chunk.js, line 1: TypeError: l is undefined
+JavaScript warning: https://h5.360buyimg.com/ws_js/jdwebm.js?v=pcHome, line 1037: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://h5.360buyimg.com/ws_js/jdwebm.js?v=pcHome, line 1037: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gias.jd.com/js/td.js line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gias.jd.com/js/td.js line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://h5.360buyimg.com/ws_js/jdwebm.js?v=pcSearch, line 1037: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://h5.360buyimg.com/ws_js/jdwebm.js?v=pcSearch, line 1037: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gias.jd.com/js/td.js line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gias.jd.com/js/td.js line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\aspire\AppData\Local\Temp\rust_mozprofileOJfVrV\thumbnails) because it does not exist
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\aspire\AppData\Local\Temp\rust_mozprofileOJfVrV\thumbnails) because it does not exist
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\aspire\AppData\Local\Temp\rust_mozprofileOJfVrV\thumbnails) because it does not exist
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\aspire\AppData\Local\Temp\rust_mozprofileOJfVrV\thumbnails) because it does not exist
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\aspire\AppData\Local\Temp\rust_mozprofileOJfVrV\thumbnails) because it does not exist
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\aspire\AppData\Local\Temp\rust_mozprofileOJfVrV\thumbnails) because it does not exist
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\aspire\AppData\Local\Temp\rust_mozprofileOJfVrV\thumbnails) because it does not exist
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\aspire\AppData\Local\Temp\rust_mozprofileOJfVrV\thumbnails) because it does not exist
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\aspire\AppData\Local\Temp\rust_mozprofileOJfVrV\thumbnails) because it does not exist
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+t error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\aspire\AppData\Local\Temp\rust_mozprofilesJkoxS\thumbnails) because it does not exist
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\aspire\AppData\Local\Temp\rust_mozprofilesJkoxS\thumbnails) because it does not exist
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\aspire\AppData\Local\Temp\rust_mozprofilesJkoxS\thumbnails) because it does not exist
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+Exiting due to channel error.
+ing-port" "51140" "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofiletEA5gc"
+1637719940283	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofiletEA5gc\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+DevTools listening on ws://localhost:51140/devtools/browser/1d715705-6aec-47aa-9efa-b01edce74cc7
+1637719944199	Marionette	INFO	Listening on port 51151
+1637719944577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mca.gov.cn/js/jquery-1.10.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.mca.gov.cn/js/jquery-1.10.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1637720186309	Marionette	INFO	Stopped listening on port 51151
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637720189024	geckodriver	INFO	Listening on 127.0.0.1:51555
+1637720192108	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51556" "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofilemqdBbd"
+1637720193210	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofilemqdBbd\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+DevTools listening on ws://localhost:51556/devtools/browser/87034c1c-1353-422e-872c-998033ab288a
+1637720197290	Marionette	INFO	Listening on port 51564
+1637720197492	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mca.gov.cn/js/jquery-1.10.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.mca.gov.cn/js/jquery-1.10.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1637720848835	Marionette	INFO	Stopped listening on port 51564
+7720719505	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52330" "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofilebJQdhh"
+1637720720583	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofilebJQdhh\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+DevTools listening on ws://localhost:52330/devtools/browser/b8915869-8250-4514-b681-0cebccb17fc6
+1637720724325	Marionette	INFO	Listening on port 52339
+1637720724368	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mca.gov.cn/js/jquery-1.10.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.mca.gov.cn/js/jquery-1.10.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1637720847691	Marionette	INFO	Stopped listening on port 52339
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1637721101790	geckodriver	INFO	Listening on 127.0.0.1:52998
+1637721104864	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52999" "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofile9CFQ8U"
+1637721105928	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofile9CFQ8U\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+DevTools listening on ws://localhost:52999/devtools/browser/7fe70020-1dd0-44e1-9190-93e91c54e4f9
+1637721111086	Marionette	INFO	Listening on port 53007
+1637721111239	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mca.gov.cn/js/jquery-1.10.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.mca.gov.cn/js/jquery-1.10.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1637721578093	Marionette	INFO	Stopped listening on port 53007
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1637721581395	geckodriver	INFO	Listening on 127.0.0.1:62731
+1637721584462	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62732" "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileZmPctZ"
+1637721585524	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileZmPctZ\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+DevTools listening on ws://localhost:62732/devtools/browser/d6fbbe3e-fd1d-43e2-b1aa-33597d7944a9
+1637721589338	Marionette	INFO	Listening on port 62741
+1637721589830	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637721645619	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: http://www.mca.gov.cn/js/jquery-1.10.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.mca.gov.cn/js/jquery-1.10.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1637721775445	Marionette	INFO	Stopped listening on port 62741
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofilePfwvmr\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+DevTools listening on ws://localhost:62990/devtools/browser/cc763942-28a3-45ba-b52a-160d7155f1ad
+1637721721103	Marionette	INFO	Listening on port 63000
+1637721721417	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mca.gov.cn/js/jquery-1.10.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.mca.gov.cn/js/jquery-1.10.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1637721775559	Marionette	INFO	Stopped listening on port 63000
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:29
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+JavaScript error: chrome://remote/content/marionette/driver.js, line 2103: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1637749134947	geckodriver	INFO	Listening on 127.0.0.1:57468
+1637749138075	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57469" "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofile5250eQ"
+1637749139865	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofile5250eQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57469/devtools/browser/dc2395d3-5661-4ce7-906f-02c69be03435
+1637749144437	Marionette	INFO	Listening on port 57477
+1637749144702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://newlands-web.oss-cn-beijing.aliyuncs.com/css/sliderWip.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://newlands-web.oss-cn-beijing.aliyuncs.com/css/bootstrap.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://newlands-web.oss-cn-beijing.aliyuncs.com/css/bootstrap-header.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://newlands-web.oss-cn-beijing.aliyuncs.com/css/font-awesome.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://newlands-web.oss-cn-beijing.aliyuncs.com/css/smoothbox.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://newlands-web.oss-cn-beijing.aliyuncs.com/css/style.css without a browsingContextID set
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1637749984538	Marionette	INFO	Stopped listening on port 57477
+ "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileBp2Iax"
+1637749272385	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileBp2Iax\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57716/devtools/browser/8b777b41-33f0-438a-9776-95457bf3c0ee
+1637749277197	Marionette	INFO	Listening on port 57727
+1637749277253	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1637749983717	Marionette	INFO	Stopped listening on port 57727
+JavaScript error: resource://gre/modules/CrashMonitor.jsm, line 201: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+t" "58709" "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileHnaYhp"
+1637749949194	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileHnaYhp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58709/devtools/browser/4d6a901c-a90e-42e6-9de8-47478dd14764
+1637749954607	Marionette	INFO	Listening on port 58717
+1637749954790	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637749983595	Marionette	INFO	Stopped listening on port 58717
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637750848352	geckodriver	INFO	Listening on 127.0.0.1:52113
+1637750851469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52114" "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofilezCklyC"
+*** You are running in headless mode.
+1637750853135	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofilezCklyC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52114/devtools/browser/b1a62388-faca-488a-a969-a34cd747f3e4
+1637750855578	Marionette	INFO	Listening on port 52122
+1637750855815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://misc.360buyimg.com/mtd/pc/index_2019/1.0.0/static/js/index.chunk.js, line 1: TypeError: l is undefined
+JavaScript warning: https://h5.360buyimg.com/ws_js/jdwebm.js?v=pcHome, line 1037: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://h5.360buyimg.com/ws_js/jdwebm.js?v=pcHome, line 1037: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gias.jd.com/js/td.js line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gias.jd.com/js/td.js line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://h5.360buyimg.com/ws_js/jdwebm.js?v=pcSearch, line 1037: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://h5.360buyimg.com/ws_js/jdwebm.js?v=pcSearch, line 1037: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gias.jd.com/js/td.js line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gias.jd.com/js/td.js line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\aspire\AppData\Local\Temp\rust_mozprofilezCklyC\bookmarkbackups\bookmarks-2021-11-24.jsonlz4) because it does not exist
+Exiting due to channel error.
+Listening on 127.0.0.1:50622
+1637753262933	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "50623" "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofile9fIn3U"
+*** You are running in headless mode.
+1637753264570	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofile9fIn3U\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50623/devtools/browser/77679161-ceac-4edf-9927-1cabd720d4b5
+1637753267737	Marionette	INFO	Listening on port 50684
+1637753268287	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://misc.360buyimg.com/mtd/pc/index_2019/1.0.0/static/js/index.chunk.js, line 1: TypeError: l is undefined
+JavaScript warning: https://h5.360buyimg.com/ws_js/jdwebm.js?v=pcHome, line 1037: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://h5.360buyimg.com/ws_js/jdwebm.js?v=pcHome, line 1037: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gias.jd.com/js/td.js line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gias.jd.com/js/td.js line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://h5.360buyimg.com/ws_js/jdwebm.js?v=pcSearch, line 1037: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://h5.360buyimg.com/ws_js/jdwebm.js?v=pcSearch, line 1037: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gias.jd.com/js/td.js line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gias.jd.com/js/td.js line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1637833240254	geckodriver	INFO	Listening on 127.0.0.1:54286
+1637833243314	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54287" "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileq71fEJ"
+1637833244361	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileq71fEJ\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+DevTools listening on ws://localhost:54287/devtools/browser/051b4b3f-98ed-4643-bb32-8173c26dd4ca
+1637833248442	Marionette	INFO	Listening on port 54294
+1637833248721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637833267545	Marionette	INFO	Stopped listening on port 54294
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1637833394623	geckodriver	INFO	Listening on 127.0.0.1:54461
+1637833397764	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54462" "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofilemuOsgb"
+1637833398836	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofilemuOsgb\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+DevTools listening on ws://localhost:54462/devtools/browser/088c3473-370d-4e98-a280-fc8d3f2b07ef
+1637833403136	Marionette	INFO	Listening on port 54469
+1637833403655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://t.captcha.qq.com/tdc.js?app_data=6869571233142972417&t=73097081?t=1637833412, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://t.captcha.qq.com/tdc.js?app_data=6869571233142972417&t=73097081?t=1637833412, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://t.captcha.qq.com/tdc.js?app_data=6869571514784169986&t=639827258?t=1637833479, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://t.captcha.qq.com/tdc.js?app_data=6869571514784169986&t=639827258?t=1637833479, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5a2475.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5a2475.js, line 10706: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5a2475.js, line 12666: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5a2475.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5a2475.js, line 10706: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25844d5.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25844d5.js, line 4501: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+1637833511151	Marionette	INFO	Stopped listening on port 54469
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637833685140	geckodriver	INFO	Listening on 127.0.0.1:64875
+1637833688263	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64876" "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileaIdsYy"
+1637833689478	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileaIdsYy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64876/devtools/browser/957ac38a-bf1d-46e2-86fd-6e05a6adf8c1
+1637833693610	Marionette	INFO	Listening on port 64883
+1637833693672	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://t.captcha.qq.com/tdc.js?app_data=6869572448989888512&t=1918078205?t=1637833702, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://t.captcha.qq.com/tdc.js?app_data=6869572448989888512&t=1918078205?t=1637833702, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5a2475.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5a2475.js, line 10706: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5a2475.js, line 12666: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5a2475.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5a2475.js, line 10706: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25844d5.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25844d5.js, line 4501: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+1637833866637	Marionette	INFO	Stopped listening on port 64883
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637834859181	geckodriver	INFO	Listening on 127.0.0.1:49417
+1637834862250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49418" "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofile3tqFLR"
+1637834863488	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofile3tqFLR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49418/devtools/browser/416fb0d2-a0b5-4d73-b296-2e17b468ee0e
+1637834867497	Marionette	INFO	Listening on port 49424
+1637834867636	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+1637834905716	Marionette	INFO	Stopped listening on port 49424
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\aspire\AppData\Local\Temp\rust_mozprofile3tqFLR\protections.sqlite
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637834925849	geckodriver	INFO	Listening on 127.0.0.1:49582
+1637834928971	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49583" "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileHcTKjZ"
+1637834930028	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileHcTKjZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49583/devtools/browser/8ef43555-d403-482b-8d9c-66076de3665a
+1637834933990	Marionette	INFO	Listening on port 49590
+1637834934390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1637838314257	Marionette	INFO	Stopped listening on port 49590
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileEyRvX6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49749/devtools/browser/028a6f16-0ed7-4742-aab9-24d679696d71
+1637834998015	Marionette	INFO	Listening on port 49755
+1637834998233	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1637838315377	Marionette	INFO	Stopped listening on port 49755
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1637838342550	geckodriver	INFO	Listening on 127.0.0.1:51794
+1637838345644	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51795" "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofile4CmlIA"
+1637838346846	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofile4CmlIA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51795/devtools/browser/57607d9b-2245-4272-85ad-673e7e33dd31
+1637838351045	Marionette	INFO	Listening on port 51801
+1637838351615	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+1637838471668	Marionette	INFO	Stopped listening on port 51801
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\aspire\AppData\Local\Temp\rust_mozprofile4CmlIA\protections.sqlite
+1637838508499	geckodriver	INFO	Listening on 127.0.0.1:52048
+1637838511618	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52049" "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofile4urVmD"
+1637838512712	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofile4urVmD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52049/devtools/browser/1f84e7eb-7ba3-4f05-9fa8-0ccf76f8b903
+1637838516498	Marionette	INFO	Listening on port 52057
+1637838516979	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+1637838551301	Marionette	INFO	Stopped listening on port 52057
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\aspire\AppData\Local\Temp\rust_mozprofile4urVmD\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1637838674842	geckodriver	INFO	Listening on 127.0.0.1:52260
+1637838677985	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52261" "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileuvwTqM"
+1637838679076	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileuvwTqM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52261/devtools/browser/1e53aaad-da0b-410f-9899-15685ec162e2
+1637838683059	Marionette	INFO	Listening on port 52268
+1637838683394	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+1637838749966	Marionette	INFO	Stopped listening on port 52268
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637838768806	geckodriver	INFO	Listening on 127.0.0.1:52427
+1637838771923	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52428" "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileW3hm2r"
+1637838773031	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileW3hm2r\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52428/devtools/browser/bd1f5ea7-65a5-44e4-be31-a7ea31f0d4eb
+1637838776801	Marionette	INFO	Listening on port 52434
+1637838777325	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+1637838808055	Marionette	INFO	Stopped listening on port 52434
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\aspire\AppData\Local\Temp\rust_mozprofileW3hm2r\protections.sqlite
+1637838838621	geckodriver	INFO	Listening on 127.0.0.1:52589
+1637838841679	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52590" "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileNp3iO9"
+1637838842768	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileNp3iO9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52590/devtools/browser/c9372afc-a393-425a-9cd4-aae6c6d89b93
+1637838846698	Marionette	INFO	Listening on port 52596
+1637838847081	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+1637838882941	Marionette	INFO	Stopped listening on port 52596
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637839064923	geckodriver	INFO	Listening on 127.0.0.1:52835
+1637839068050	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52836" "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofilephUAks"
+1637839069128	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofilephUAks\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52836/devtools/browser/add75f90-c029-4fed-bbd5-942ab772ee01
+1637839072696	Marionette	INFO	Listening on port 52845
+1637839072970	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1637839634519	Marionette	INFO	Stopped listening on port 52845
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileaLiTvD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53005/devtools/browser/f416a175-a1b8-4ebb-9a62-f09a3a715500
+1637839152736	Marionette	INFO	Listening on port 53012
+1637839152798	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+1637839635420	Marionette	INFO	Stopped listening on port 53012
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1637840173180	geckodriver	INFO	Listening on 127.0.0.1:53765
+1637840176241	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53766" "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileRFpZ2B"
+1637840177476	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileRFpZ2B\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53766/devtools/browser/e20f66ac-91b7-49c7-8a37-1cfc43514c7e
+1637840181310	Marionette	INFO	Listening on port 53775
+1637840181710	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+1637840252729	Marionette	INFO	Stopped listening on port 53775
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\aspire\AppData\Local\Temp\rust_mozprofileRFpZ2B\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637840409366	geckodriver	INFO	Listening on 127.0.0.1:54011
+1637840412446	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54012" "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofilelnlmBd"
+1637840413721	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofilelnlmBd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54012/devtools/browser/e6e1e10a-ec58-4a21-92ce-29c20c0edccd
+1637840417515	Marionette	INFO	Listening on port 54018
+1637840417866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+1637840485034	Marionette	INFO	Stopped listening on port 54018
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\aspire\AppData\Local\Temp\rust_mozprofilelnlmBd\protections.sqlite
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637840532520	geckodriver	INFO	Listening on 127.0.0.1:54199
+1637840535608	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54200" "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileVqcO8Q"
+1637840536866	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileVqcO8Q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54200/devtools/browser/d886443e-edae-4b7d-bf65-bfbab9825131
+1637840541086	Marionette	INFO	Listening on port 54206
+1637840541547	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+1637840599041	Marionette	INFO	Stopped listening on port 54206
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1637840627253	geckodriver	INFO	Listening on 127.0.0.1:54366
+1637840630320	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54367" "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileP3tBvr"
+1637840631578	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileP3tBvr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54367/devtools/browser/4da37f34-f154-4990-9921-698dbff0618f
+1637840635885	Marionette	INFO	Listening on port 54374
+1637840636253	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+1637840716542	Marionette	INFO	Stopped listening on port 54374
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\aspire\AppData\Local\Temp\rust_mozprofileP3tBvr\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637840743080	geckodriver	INFO	Listening on 127.0.0.1:54538
+1637840746159	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54539" "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofile74YIt2"
+1637840747435	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofile74YIt2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54539/devtools/browser/95f6deb4-b191-4f0e-b793-7a0455f6e724
+1637840751727	Marionette	INFO	Listening on port 54546
+1637840752294	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+1637840926471	Marionette	INFO	Stopped listening on port 54546
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54722" "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofilek3JHl3"
+1637840858938	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofilek3JHl3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54722/devtools/browser/cc85124d-bda9-41bc-989d-5a82abfe6a3f
+1637840863309	Marionette	INFO	Listening on port 54730
+1637840863777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+1637840924211	Marionette	INFO	Stopped listening on port 54730
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\aspire\AppData\Local\Temp\rust_mozprofilek3JHl3\protections.sqlite
+1637841133901	geckodriver	INFO	Listening on 127.0.0.1:54991
+1637841137009	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54992" "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileSbsfIP"
+*** You are running in headless mode.
+1637841138058	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileSbsfIP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54992/devtools/browser/78eb9831-6f05-4b06-aff3-f9ba91e8f859
+1637841140056	Marionette	INFO	Listening on port 55002
+1637841140252	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+1637841150594	Marionette	INFO	Stopped listening on port 55002
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\aspire\AppData\Local\Temp\rust_mozprofileSbsfIP\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637841655363	geckodriver	INFO	Listening on 127.0.0.1:55423
+1637841658458	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "55424" "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileDv4CVx"
+*** You are running in headless mode.
+1637841659546	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileDv4CVx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55424/devtools/browser/6e09fabd-ca0a-41cb-9ff6-57abef8f14e6
+1637841661493	Marionette	INFO	Listening on port 55432
+1637841661711	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+-port" "59241" "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofiledBC61X"
+*** You are running in headless mode.
+1637841745574	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofiledBC61X\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59241/devtools/browser/b7902fca-e6be-4c8f-bfa7-d84519465f9c
+1637841747640	Marionette	INFO	Listening on port 59250
+1637841748164	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+-port" "59426" "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileHVzQbp"
+*** You are running in headless mode.
+1637841843732	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileHVzQbp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59426/devtools/browser/e843758f-8a4d-4dba-acf3-01e7ea131013
+1637841845676	Marionette	INFO	Listening on port 59433
+1637841845879	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+--headless" "--remote-debugging-port" "59723" "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileQdPRZ6"
+*** You are running in headless mode.
+1637842073470	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileQdPRZ6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59723/devtools/browser/5005cebd-adf6-4197-8e41-6b0b1478652b
+1637842075717	Marionette	INFO	Listening on port 59731
+1637842075944	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://misc.360buyimg.com/mtd/pc/index_2019/1.0.0/static/js/index.chunk.js, line 1: TypeError: l is undefined
+JavaScript warning: https://h5.360buyimg.com/ws_js/jdwebm.js?v=pcHome, line 1037: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://h5.360buyimg.com/ws_js/jdwebm.js?v=pcHome, line 1037: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gias.jd.com/js/td.js line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gias.jd.com/js/td.js line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://h5.360buyimg.com/ws_js/jdwebm.js?v=pcSearch, line 1037: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://h5.360buyimg.com/ws_js/jdwebm.js?v=pcSearch, line 1037: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gias.jd.com/js/td.js line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gias.jd.com/js/td.js line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+37842716707	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60700" "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileFEZPXY"
+*** You are running in headless mode.
+1637842717935	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileFEZPXY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60700/devtools/browser/f59f1b51-dff3-4358-a5ce-6a37a6489550
+1637842720285	Marionette	INFO	Listening on port 60710
+1637842720468	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+--headless" "--remote-debugging-port" "60960" "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofilegC1ks7"
+*** You are running in headless mode.
+1637842859878	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofilegC1ks7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60960/devtools/browser/e59c9f54-234c-4fa7-bb75-6636698ab0f4
+1637842862191	Marionette	INFO	Listening on port 60967
+1637842862506	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+rofile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileTmTcLD"
+*** You are running in headless mode.
+1637842923442	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileTmTcLD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61130/devtools/browser/c9e9a33a-3f7a-4413-ba9d-968a5b449d60
+1637842925441	Marionette	INFO	Listening on port 61146
+1637842925573	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+--headless" "--remote-debugging-port" "61816" "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileEhZtpW"
+*** You are running in headless mode.
+1637843319196	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileEhZtpW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61816/devtools/browser/e6e134db-c9da-44dd-b952-e4e22d23507b
+1637843321593	Marionette	INFO	Listening on port 61827
+1637843321709	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+--headless" "--remote-debugging-port" "62095" "-no-remote" "-profile" "C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileOr3GIh"
+*** You are running in headless mode.
+1637843429574	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aspire\\AppData\\Local\\Temp\\rust_mozprofileOr3GIh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62095/devtools/browser/2bfb72ef-18c1-47a0-8ac3-e17745411611
+1637843431673	Marionette	INFO	Listening on port 62102
+1637843432147	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_ebe8fe275b55bd56113a3240a267edf9.js?ebe8fe275b55bd56113a3240a267edf9, line 96: unreachable code after return statement
+1637843447469	Marionette	INFO	Stopped listening on port 62102
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\aspire\AppData\Local\Temp\rust_mozprofileOr3GIh\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

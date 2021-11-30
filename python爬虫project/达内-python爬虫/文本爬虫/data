@@ -1,0 +1,27 @@
+"""data批量处理“”“
+"""""# contrl + r 选择.*  (.*): (.*)-->"$1"": "$2",",
+
+data = {
+"Accept": "*/*",
+
+"Accept-Encoding": "gzip, deflate",
+
+"Accept-Language": "zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7",
+
+"Connection": "keep-alive",
+
+"Content-Length": "82",
+
+"Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
+
+"Host": "www.xinfadi.com.cn",
+
+"Origin": "http://www.xinfadi.com.cn",
+
+"Referer": "http://www.xinfadi.com.cn/priceDetail.html",
+
+"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36",
+
+"X-Requested-With": "XMLHttpRequest",
+
+}
